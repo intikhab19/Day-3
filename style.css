@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    height: 55px;
+    margin-top: 20px;
+    
+}
+.navbar {
+    height: 97px;
+    background-color: rgb(216, 0, 0);
+    display: flex;
+    width: 1220px;
+    margin: 0px 150px 0px 150px;
+    
+}
+
+.menubox{
+    width:1050px;
+}
+.navbar ul{
+    display: flex;
+    justify-content: right ;
+    background-color: blue;
+    
+    
+    height:97px;
+    padding: 20px;
+    box-sizing: border-box;
+    
+   
+}
+.items {
+ list-style: none; 
+ margin: 20px;
+ 
+}
